@@ -1,0 +1,382 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some observations upon a sermon bearing the name of Mr. Astley's; preached in opposition to a testimony, and sign unto them, of their spiritual nakedness; wherein he is found to wrest and pervert the scriptures : to be ignorant of the truth, as it is in Jesus; and consequently no minister of Christ, &amp;c. / By a lover of the truth, John Hogg.</title>
+            <author>Hogg, John, fl. 1675-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86442</idno>
+            <idno type="STC">Wing H2368A</idno>
+            <idno type="STC">ESTC R178082</idno>
+            <idno type="EEBO-CITATION">45789343</idno>
+            <idno type="OCLC">ocm 45789343</idno>
+            <idno type="VID">172653</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86442)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172653)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2643:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some observations upon a sermon bearing the name of Mr. Astley's; preached in opposition to a testimony, and sign unto them, of their spiritual nakedness; wherein he is found to wrest and pervert the scriptures : to be ignorant of the truth, as it is in Jesus; and consequently no minister of Christ, &amp;c. / By a lover of the truth, John Hogg.</title>
+                  <author>Hogg, John, fl. 1675-1698.</author>
+               </titleStmt>
+               <extent>[4], 19 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year. 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astley, Richard.</term>
+               <term>Society of Friends --  England --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172653:1" rendition="simple:additions"/>
+            <p>Some OBSERVATIONS Vpon a Sermon bearing the name of Mr. <hi>Aſtley</hi>'s; Preached in oppoſition to a Teſtimony, and Sign unto them, of their Spiritual nakedneſs; Wherein he is found to Wreſt and pervert the Scriptures: to be Ignorant of the truth, as it is in Jeſus; and conſequently no Miniſter of Chriſt, &amp;c.</p>
+            <p>By a lover of the truth, <hi>John Hogg.</hi>
+            </p>
+            <q>
+               <bibl>30. Iſa: 1, 2.</bibl>
+               <p>
+                  <hi>Woe to the Rebellious children ſaith the Lord, who take councel but not of me, and cover with a co<g ref="char:EOLhyphen"/>vering, but not of my Spirit.</hi>
+               </p>
+            </q>
+            <q>
+               <hi>But the way of the juſt, is as a ſhineing light, which ſhineth more and more, unto the perfect day.</hi>
+               <bibl>Pro. 4.18.</bibl>
+            </q>
+            <p>Printed in the Year. 1675.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:172653:2"/>
+            <pb facs="tcp:172653:2" rendition="simple:additions"/>
+            <p>FRiends and Readers, of the following diſcourſe, eſteem me not your Enemy: For behold I have no other end, then love to your Immortal ſouls; The Advancement of Gods Truth, the vindication of thoſe walking in it; and the Anſwering of a good Conſcience towards the Lord. I plead not for all that make a Profeſſion of it, knowing, that there may be a ſhew of Godlineſs without the Power. Therefore be neither haſty nor high minded, Pride goes before a Fall, and Anger reſteth in the boſome of Fools. I obſerve that we are reflected upon, to be as Seducers; uſing Lying Signes and Wonders by ſome who think they ſtand clear thereof,
+<note place="margin">
+                  <hi>2</hi> Theſ <hi>:2</hi>
+               </note> but let ſuch take heed leaſt they fall. For ſeeing it is ſaid in the place quoted againſt us, that <hi>the day of Chriſt could not come, except there was firſt a falling away.</hi>
+            </p>
+            <p>Therefore I adviſe ſuch as a Friend, to conſider their preſent ſtanding, and ſee if it be not in a falne away ſtate, from what the Ancients ſtood in, If ſo (as I queſtion not but they will confeſs upon examination,
+<note place="margin">
+                  <hi>1</hi> Cor. <hi>6.19.</hi> &amp; <hi>3.16, 17.</hi>
+               </note> if they lay Judge<g ref="char:EOLhyphen"/>ment to the Line, and Righteouſneſs to the Plummit) then conſider, if the man of Sin which is to be revealed, ſit not in the Temple of God, in you. So be ſerious and ſee if it be not thus with you.</p>
+            <p>Firſt becauſe it is called <hi>the Mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tery of Iniquitie.</hi> Secondly becauſe he ſits not as a man of ſin, or as Sathan. <hi>(Obſ:) but as God, in the Tem<g ref="char:EOLhyphen"/>ple of God, ſhewing himſelfe that he is God.</hi> Again conſider after what manner he is to be deſtroyed, it is by the Spirit of the Lords mouth, and by the Brightneſs of his Coming. Therefore mind you miſs not of his coming, by expecting him according to your Immaginations, like the Jews who would not accept of him, becauſe he came not according to their wills and Expectati<g ref="char:EOLhyphen"/>ons. We are alſo Reflected upon, to be as the Falſe Chriſts ſpoken of, <hi>Mat. 24.</hi> in that reſpect I have a certain Teſtimony to bear for the Truth, which I would have you ſeriouſly to conſider, a Time was, in which I ſtood as it were in the mi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>leſt, beholding all Profeſſions, hearing and obſerving, how every particular Perſwaſion called: Saying, come Worſhip with us, Lo here is Chriſt in our Form, he is to be found in this or that Obſervation. And whileſt I thus conſidered their Plurality of Voyces, it Amazed me, becauſe they did all appear to ſtand in one Ground, all Profeſſing but one God, and g<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nerally with a like Zeal, notwithſtanding their variety of Calls, and Voyces, So being uncertain with whom to joyn. I took up this reſolution to love all but joyn with no particular, Leaſt I ſhould thereby diſreſpect the reſt, now as I was in this Bewildred State; the Lord God of Heaven and Earth, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>el me by the
+<pb facs="tcp:172653:3"/>Light of his Eternal Spirit ſhining in me, plainly to whom I ſhould joyn to walk with them in Spirit in the Light of the Lord, And therefore I can<g ref="char:EOLhyphen"/>not but ſpeak well of his Name, and by shis Light I plainly ſaw God was a Spirit, and was not to be found in any of their dead Forms, nor to come to by any of their Obſervations without, but to <hi>be Worſhiped in Spirit</hi> (Obſ:) <hi>and in Truth.</hi> Therefore mind the Voice of Truth (and ſee how contrary it is to all the Voyces of <hi>Loe-heres</hi> and the <hi>Loe-theirs</hi>) which ſayes go not forth,
+<note place="margin">Ro. <hi>1.10</hi> Mal. <hi>3.1</hi> Heb. <hi>2.20.</hi>
+               </note> what is to be known of God, is manifeſt in you, turn Inward and wait for the Appearance of the Lord in his Temple, there muſt you obtain certainty, for his Coming is as the Lightening which ſhineth from the E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt unto the Weſt, this Te<g ref="char:EOLhyphen"/>ſtimony is true whether you will believe it yea or nay. Laſtly, I would not have you to think that becauſe I have obſerved ſomany Errors and contra<g ref="char:EOLhyphen"/>dictions (where<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he is one of the Leadersy it appears, which cauſeth the Peo<g ref="char:EOLhyphen"/>ple to erre, which your ſelves may eaſily perceive by ingeniouſly reading my fol<g ref="char:EOLhyphen"/>lowing obſervations made upon his Sermon) that I have prejudice to him or to any of you, For verely God having ſhed abroad his love in my heart hath tought me to love my Enemies, <hi>&amp;c.</hi> But rather make this Ingenious con<g ref="char:EOLhyphen"/>ſtruction of it, which may anſwer my end in reſpect of you, that is, if I can<g ref="char:EOLhyphen"/>not perſwade you to receive the Truth through the love of it, then I may (by making Errour and Deceit manyfeſt as before expreſſed) oblige you to a ſeri<g ref="char:EOLhyphen"/>ous conſideration of your preſent ſtanding, that ſo at leaſt you may come to ſee if the Blind lead the Blind they muſt both fall into the Ditch, thus I am clear of you, Giving you this Caution, to be ſure not to call true ſpeaking Railing, or Revileing, but if you doe, So that thereby be raiſed up in you againſt me, <hi>Cain, Iſhmael</hi> or <hi>Eſau's</hi> Spirit, I ſhall not regard knowing my peace in the Lord who is the Portion of the Righteous, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>The 25th. 9. Month. 1673.</date>
+               </dateline>
+               <signed>Thus I am Your Friend, <hi>John Hogg.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="observation">
+            <pb n="1" facs="tcp:172653:3"/>
+            <head>Some Obſervations on <hi>Richard Aſtleys</hi> Sermon, &amp;c.</head>
+            <p>FIrſt, paſſing by much of his diſcourſe, in the beginning, not becauſe it cannot be found fault with; but becauſe it is frivillous, and not pertinent to our purpoſe. So where he begins, to reflect upon <hi>Daniel Smith:</hi> as a Lying Sign unto them, I ſhall obſerve the ſtrength of thoſe Reaſons given by him to prove it.</p>
+            <p>Firſt, He ſayes, there is but three pretences, that he can Immagine: any make for ſuch a naked carriage: in the ſight of others. I ſhall ſhew you, ſayes he, the vanity of them all, &amp;c.</p>
+            <p>
+               <hi>Obs.</hi> It is very eaſy for a man, to State his own Immagi<g ref="char:EOLhyphen"/>nations, and then ſhew the vanity of them.</p>
+            <p>His firſt Immagination; after the Fall (ſayes he,) they ap<g ref="char:EOLhyphen"/>prehend that Man by Jeſus Chriſt: was Reſtored to the ſame condition; from which he fell by ſin, (meaning an outward State) But he is miſtaken, for we intend no more his mean<g ref="char:EOLhyphen"/>ing; then thoſe words Import an outward covering. (<hi>Wo unto them that take Council and not of me; and cover with a co<g ref="char:EOLhyphen"/>vering, and not of my Spirit, ſaith the Lord,</hi> Iſa: 30.) becauſe a covering, muſt it needs be Outward? Is there no other? but if all be outward, ſpoken of in the Beginning. Tell me what day Parradiſe was made on? Seing it is ſaid <hi>in ſix dayes God finiſhed all his works.</hi> And tell me alſo what part that wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to cover; <hi>The Woman which thou gaveſt me, gave me and did eat.</hi>
+            </p>
+            <p>His firſt Argument, to ſhew the vanity of his Aſſertion (which he calls ours) but indeed is really his own Immagi<g ref="char:EOLhyphen"/>nation: therefore muſt end according to his own concluſion) is, If any man be Reſtored, (by Jeſus Chriſt, which he muſt intend: if he argue upon thoſe words, he calls ours) then <hi>Adam</hi> was recovered, &amp;c.</p>
+            <pb n="2" facs="tcp:172653:4"/>
+            <p>
+               <hi>Obſ:</hi> By this his ignorance, is manifeſted, in not ſeeing the difference, between the Promiſe, and him that was promiſed. Was the Man Chriſt Jeſus in <hi>Adams</hi> day? What no diffe<g ref="char:EOLhyphen"/>rence betwixt, <hi>he ſhall bruiſe the Serpents Head;</hi> And <hi>I have Finiſhed the work thou gaveſt me to doe?</hi> &amp;c. He further ſayes, the main caſe, to be inquired into, is whether <hi>Adam</hi> being reſtored, did walk naked again, &amp;c. But he has miſſed the mark, for the main caſe of Inquiry, (in this place ſhould have been by him: if he would have had his Nakedneſſe hid, for which his diſcourſe was intended) had truly been to have known the true difference, betwixt the Man, drove out from God: (covered with skins) having but the promiſe of the Seed;
+<note place="margin">
+                  <hi>Heb.</hi> 10.20.</note> and the man that put on Chriſt which is that Seed that brings to God again, by the <hi>New and Living way.</hi> My Aſſer<g ref="char:EOLhyphen"/>tion is thus proved. (1. <hi>Obſ:</hi> The caſe he Argues upon, is really an Immagination; therefore there can be no worth in the Argument. Secondly, If he had truly known the difference as aforeſaid; he might have paſt at this time, not ſo much diſcovered. And laſtly, that I am not miſtaken in him, he proves it himſelfe by theſe words in the concluſion of his Argument. So man recovered from his faln Eſtate, is by the Lord clothed without any difference ſhewed as a<g ref="char:EOLhyphen"/>foreſaid?</p>
+            <p>His Second Argument in ſhort runs thus: If man be re<g ref="char:EOLhyphen"/>ſtored to Innocency, and ſo to comly Nakedneſs: he is reco<g ref="char:EOLhyphen"/>vered to that capacity of Body to bear it, &amp;c. But his con<g ref="char:EOLhyphen"/>cluſion is, that no man is thus reſtored: therefore by his Ar<g ref="char:EOLhyphen"/>gument, no Man is Innocent; <hi>(Obſ:)</hi> Then he himſelfe and thoſe that take part with him, muſt needs be Nocent; if ſo not born again;
+<note place="margin">
+                  <hi>Mat.</hi> 18 3.</note> no new creature; not in Chriſt, not ſo converted to become as little Children; ſo cannot enter into the Kingdom of Heaven; Then alas where are you with Old <hi>Adam,</hi> drove out from God! and that which yet ſeems worſe, by the conſequent, wants the Covering with Skinns, by which Nakedneſs appears: notwithſtanding the Fig-leaſe
+<pb n="3" facs="tcp:172653:4" rendition="simple:additions"/>Garment: and <hi>Daniel Smith</hi> yet remaines, ſo farre as I ſee, a true ſign unto you; thus <hi>R. A.</hi> by concerning himſelfe with a matter ſo little pertinent to his purpoſe, doth the vanitie of his undertaking appear, more then if he had been ſi<g ref="char:EOLhyphen"/>lent, &amp;c. However let the Reader take notice that I do not make mans reſtoration to his firſt Innocency a prof for a common going naked for that is not our practice, but oppoſe <hi>R. A.</hi>'s Immaginations againſt a peculiar Sign of nakedneſſe ſhown among them as alſo againſt his denyal of ſuch a reſtora<g ref="char:EOLhyphen"/>tion into Innocency.</p>
+            <p>His Second Immagination conſidered; wherein he labour<g ref="char:EOLhyphen"/>eth as for very vanitie; Fighting with his own ſhadow; for he acknowledgeth its his third Immagination, which his Antago<g ref="char:EOLhyphen"/>niſt ſtands upon he ſayes why others ſhould pretend Immita<g ref="char:EOLhyphen"/>tion, &amp;c. what others he intends would be a queſtion worth the asking: were not his Aſſertion; his own Immagination, he proceeds, and bids look, what the Lord Commanded the Prophet <hi>Iſaiah, Chap.</hi> 20. from 2. <hi>verſe.</hi>
+            </p>
+            <p>Secondly, he ſayes, the Prophet did juſt, what the Lord commanded him; the Lord commanded him, <hi>to looſethe Sack<g ref="char:EOLhyphen"/>cloth, from off his Loynes;</hi> and <hi>put a Shooe from off his foot; (Obſ:)</hi> he puts <hi>(ae)</hi> inſtead of <hi>(thy,)</hi> and yet bids <hi>look,</hi> as though his deceit could not be perceived; Again he ſayes, the Lord did not ſay, take away the Sackcloth from thy Loins, but <hi>looſe the Sackcloth from thy Loynes,</hi> may be not be aſhamed of deceit? to pervert the Scripture in Reading, leaving <hi>(off)</hi> out, which is in the Scripture, in contradiction to his former read<g ref="char:EOLhyphen"/>ing; all this wreſting of Scripture is, to make them ſpeak <hi>Iſaiah</hi> was but part naked; But we read in the Scripture, <hi>Looſe the Sackclotbh, from off thy Loins;</hi> and <hi>put thy Shoe from off thy foot: and he did ſo, Walking naked and barefoot;</hi> Again the Lord ſaid, as a ſecond witneſs, <hi>as my ſervant</hi> Iſaiah, <hi>bath walked Naked and barefoot. Obſ:</hi> not part naked, and bare of one foot; as he ſuggeſteth: Surely for advantage, he would
+<pb n="4" facs="tcp:172653:5"/>tell notable Storyes: while he hath done all this for nothing; for if his end were granted, it would add nothing to his cauſe in hand; ſeeing Immitation, is not that which they ſtand upon, with whom he hath to do. As he himſelfe acknow<g ref="char:EOLhyphen"/>ledgeth; however he makes himſelf manyfeſt by preſuming contrary to what is written, not to be an obſerver of the Scriptures: which he ſets up ſo high in words, but in Works denyes it; by making himſelfe as Judge not of what they do mean, but of that they never can intend, ſo wreſts and per<g ref="char:EOLhyphen"/>verts them; as he that preaches a man ſhould not ſteal, but found doing the ſame things: ſo inexcuſable. &amp;c.</p>
+            <p>But further to prove,
+<note place="margin">
+                  <hi>Rom.</hi> 2.</note> his falſe poſition; he brings many witneſſes; which as he brings them, ſtand like ſuborned wit<g ref="char:EOLhyphen"/>neſſes: but if they add nothing, to his cauſe by confeſſing, truth, upon examination, then the evil will lye at his door, that would force them; The firſt is <hi>Peter,</hi> who confeſſeth no<g ref="char:EOLhyphen"/>thing of <hi>Eſai</hi> in the caſe; but that's not all, he ſayes <hi>Peter</hi> took his upper garment, and girt it about him, Importing (ſaith he) that there was under it a Garment; thus he wreſts the Scripture, for the words are, <hi>he girded his Fiſhers coat (his coat to)</hi> or <hi>unto him:</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 21.7</note> which cannot admit of his conſe<g ref="char:EOLhyphen"/>quence, as for <hi>James</hi> and <hi>Paul,</hi> they ſpeak nothing of <hi>Iſa.</hi> in the caſe, the next witneſes that he brings, is one like himſelfe: <hi>Michal</hi> notwithſtanding ſhe can witneſs nothing for him,
+<note place="margin">2 <hi>Sam.</hi> 6.16. <hi>&amp;</hi> 20.21.</note> in the caſe he brings her for: but obſerve as <hi>Michael</hi> diſpiſed <hi>David</hi> in her heart, being uncovered in the Service of the Lord, and by him was juſtified. So you deſpiſed <hi>Daniel Smith,</hi> when he was uncovered, and as he told you, in the Service of the Lord, and by the Lord is juſtified for any thing you have ſaid; who can ſee no further then <hi>Michal</hi> did, to that which is outward. Thus he hath brought a very fitting Subject which he and his followers may do well ſeriouſly to conſider, further he ſayes <hi>Iſa.</hi> was not commanded to put off any thing but his Sack<g ref="char:EOLhyphen"/>cloth which is contrary to the Scriptures and in contradiction
+<pb n="3" facs="tcp:172653:5" rendition="simple:additions"/>to himſelf, who before granted he was to put off a Shoe <hi>&amp;c.</hi> Now there is two things (ſayes he) which may convince, that <hi>Iſa.</hi> did not paſſe wholly naked: Firſt (ſayes he) thereis men<g ref="char:EOLhyphen"/>tion made of his being barefooted; ſo he Argues if by naked<g ref="char:EOLhyphen"/>neſſe were meant altogether naked then his feet would have been Naked, as well as the reſt; <hi>(Obſ:)</hi> In his firſt reaſoning, to prove that <hi>Iſa.</hi> was not all naked, he ſayes it is not ſaid, <hi>put off both thy Shoes,</hi> but <hi>put off a Shoe,</hi> which is in contradicti<g ref="char:EOLhyphen"/>on, to his foregoing reaſon, that he ſaid might convince; His ſecond reaſon to convince, that <hi>Iſa.</hi> was not all Naked, becauſe no neceſſitie, for it by the ſign he was to be, <hi>Egypt</hi> ſayes he <hi>&amp;c.</hi> was to be led away with their Buttocks unco<g ref="char:EOLhyphen"/>vered, Infersing, that this was all that <hi>Iſaiah</hi> was to be a Sign of, contrary to the Scriptures, which ſaith <hi>like as my Servant</hi> Iſa. <hi>hath walked naked and barefoot:</hi> &amp;c. <hi>Obſ: So ſhall the Egyp<g ref="char:EOLhyphen"/>tians be led away naked and bare foot;</hi> and to expreſs the ſhame more fully, <hi>even with their Buttocks bare to the ſhame of E<g ref="char:EOLhyphen"/>gypt,</hi> &amp;c. Thus he hath truly ſhown the vanity of his own Immaginations, according to his promiſe, by wreſting and perverting the Scripture: and in contradicting himſelfe, as Firſt, <hi>Iſa:</hi> was but to put off a Shoe. Secondly, to put off nothing but his Sackcloth; And laſtly makes uſe of the be<g ref="char:EOLhyphen"/>ing barefooted: all this his confuſed work has been to prove <hi>Iſa:</hi> was but part naked contrary to the Scriptures, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. His third Immagination conſidered, (which becauſe it carryes moſt ſhow of verity with it) being the caſe to which we both agree; though as he hath ſtated it verbatim, we ſhould not, yet for brevityes ſake, and avoiding wrangling, with a Charitable allowance: Shall be willing to joyn Iſſue with him, that the Nakedneſs may be truly found; they (faith he) pretend to <hi>A Divine call,</hi> unto which (they ſay) they are to be <hi>Obedient:</hi> (in ſhort thus) if this fall to the ground, (ſaith he) their nakedneſs will appear naked indeed,
+<pb n="6" facs="tcp:172653:6"/>
+               <hi>(Obſ:)</hi> we grant it, and therefore if it be found to the con<g ref="char:EOLhyphen"/>trary, <hi>R. A.</hi> muſt appear according to his conbluſion of us, <hi>&amp;c.</hi>
+            </p>
+            <p>His firſt Argument ſtated, to prove no need of <hi>Inspirati<g ref="char:EOLhyphen"/>on</hi> &amp;c. is, If the Scriptures be able to make the man of God perfect, and throughly furniſhed, to every good work and word, then (ſayes he) no need of extraordinary calls, <hi>&amp;c.</hi> And that the Scriptures are truth, and able to make a man perfect; this can ſcarcely be denyed, 2 <hi>Tim.</hi> 3.16, 17. this is the ſubſtance of his Aſſertion, Moſtly falſe-yet ſome of it true, in ſome ſence, ſo is not to be anſwered fully, as it's ſtated altogether <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>(Obſ:)</hi> Firſt I ſhall grant, that the Scriptures are able to make the man of God wiſe unto ſalvation, through faith in Chriſt Jeſus: (as they were <hi>Timothy,</hi> 2 <hi>Tim.</hi> 3.15.) but I affirm that that man, which is made wiſe unto ſalvation by the Scriptures, muſt have the ſame faith that <hi>Timothy</hi> and all the Men of God had,
+<note place="margin">
+                  <hi>Col.</hi> 1.27 <hi>Gal.</hi> 1.16. <hi>John</hi> 16.13. <hi>Rom.</hi> 8.14, 15, 16.</note> and ſuch know that Chriſt is in them, read 2 <hi>Cor.</hi> 13.5. And this knowledge I may boldly ſay <hi>R. A.</hi> has not, becauſe he affirms, nothing greater then the Scrip<g ref="char:EOLhyphen"/>tures to be the guide of Man; So denyes the Spirit of God to guide or lead him, and none are his Sons of God, but thoſe who are led by his Spirit; Again, I grant according to the Scriptures, that they being given by Inſpiration, are profita<g ref="char:EOLhyphen"/>ble for reproofe, &amp;c. 2 <hi>Tim.</hi> 3.16. <hi>that the man of God</hi> (mind) <hi>may be throughly furniſhed.</hi> They do not ſay that of themſelves they are able to furniſh him; much leſs to make another man perfect, to every good work, as his words would Inſinuate; For one proof of this, himſelfe ſhall be the Example, whoſe work by this diſcourſe, is proved imperfect; So his Aſſertion that the Scriptures, (leaving out faith in Jeſus Chriſt) are able to make a man perfect is falſe, &amp;c.</p>
+            <p>Further <hi>(Obſ:)</hi> the Scriptures, does not ſpeak of furniſhing any, but the Man of God; but only furniſh him: Then the quaery is, how they are profitable to ſuch a man, for if a Man
+<pb n="7" facs="tcp:172653:6" rendition="simple:additions"/>of God, then hath been born of God, ſo hath ceaſed to com<g ref="char:EOLhyphen"/>mit ſin, having overcome the Evil one,
+<note place="margin">
+                  <hi>John</hi> 3.9</note> by the Seed of God which remaineth in him; he is in Chriſt Jeſus, therefore no condemnation to him; becauſe he walkes after the Spirit;
+<note place="margin">
+                  <hi>Rom.</hi> 8.1.2, 3, 4.</note> for by walking after the Spirit, is the righteouſneſs of the Law, fulfilled in him; So comes to the end of the Scriptures, reproving and correcting him;
+<note place="margin">
+                  <hi>Ro.</hi> 10.4. <hi>Ro.</hi> 6.14. <hi>Tit.</hi> 2.11.</note> thus the man of God is come to the end of the Law, for Righteouſneſs ſake; So is not un<g ref="char:EOLhyphen"/>der the Law, but under Grace, Yea that grace, which hath appeared to all men, by which he hath ſo learned, that it need not to be ſaid unto him know the Lord;
+<note place="margin">
+                  <hi>John</hi> 2.27-29.</note> nor need he any man to reach him: but as that annointing teacheth him; <hi>(Obſ:)</hi> the Law was added becauſe of Transgreſſion, untill the Seed came, to whom the promiſe was made,
+<note place="margin">
+                  <hi>Gal.</hi> 3.19-24.</note> ſo was the Schoolmaſter to bring to Chriſt; Again <hi>(Obſ:)</hi> all guifts giv<g ref="char:EOLhyphen"/>en to Men by Chriſt, for the work of the Miniſtry, is to bring to him: <hi>Ephe.</hi> 4.11-14. where they all end in him,
+<note place="margin">
+                  <hi>Gal.</hi> 3.25. <hi>Heb.</hi> 5.6. <hi>Iſa.</hi> 9.5, 6.</note> to them which is come to the true Faith; for ſuch are come to him, whom they know the Prieſt for ever; whoſe lips preſerve knowledge, and to be their Leader, with the Government upon his ſhoulder, whom they know is com'd, the Won<g ref="char:EOLhyphen"/>derful Counſellour: according to the promiſe of the Father, thus the man of God is Taught (not of the Scriptures only but) of God.</p>
+            <p>But now to ſhew how the Scriptures, do furniſh the man of God: (Firſt, they are generally received as true: Se<g ref="char:EOLhyphen"/>condly, in that reſpect, they are as a Law unto the lawleſs.) Further, it is the man of God only, that can ſpeak them in due ſeaſon, by the guidance of Gods Spirit; which brings them to his remembrance, and opens them from which at firſt they were given forth; thus the man of God, furniſhed by them now, to Reprove, Corect or Inſtruct; the Apoſtatized Chriſtians: that are ſetting up the Form of godlyneſs, by Immitation of the Scriptures; being both Ignorant of the life
+<pb n="8" facs="tcp:172653:7"/>and power, which the Ancient Chriſtians had, and lived in, denying the Spirit to be the Abſolute guide into all truth, preferring the Scriptures before it, like the Jews, who pre<g ref="char:EOLhyphen"/>ferred them before Chriſt; thus is your ſtate parralel to the Jews: which would not believe; though the Scriptures teſti<g ref="char:EOLhyphen"/>fied of him, therefore in that State, could ſee him to be no more but the Carpenters Son: whileſt others that believed in him, ſaw him to be the Son of God.) that though now the Scriptures teſtifie,
+<note place="margin">
+                  <hi>Joh.</hi> 1—10.</note> 
+               <hi>That that is the true Light, which light<g ref="char:EOLhyphen"/>eneth every man coming into the World:</hi> yet you not believing in it, can ſee it but to be, as a natural thing, whilſt others which believes in it, Sees it to be the Light, of the Son of God. Thus what can be done, if you will neither believe in it, for its works ſake; nor yet the teſtimony of your Brethren, who in that caſe may be your Judges. But again to return to the matter, we find that the Prophets, Chriſt, and his Apoſtles, did thus make uſe of the Scriptures, to correct, reprove, and inſtruct the backſliden, and unbelieving Jews; not but that he was perfect without them, and his words as ſure as they; (and ſo his Spirit, ſpeaking through all his ſervants,) but becauſe the Scriptures was of credit and received by them, which he and his ſervants was not. Therefore he ſayes to the Jews; <hi>Search the Scriptures,</hi> (Obſ:) <hi>for in them ye think to have Eternal life; and they are they that teſtifie of me,</hi> (By which its manifeſt, the Scriptures may be eſteemed, and ſearched to the beſt of mans underſtanding, and yet they miſs of the Truth, for ſaith he,) <hi>Ye will not come unto me, that ye may have Life,</hi> John 5.39-</p>
+            <p>Further to ſhew, that the Scriptures of themſelves with<g ref="char:EOLhyphen"/>out the Spirit cannot furniſh to every good work;
+<note place="margin">
+                  <hi>Joh.</hi> 21.25. <hi>Joh.</hi> 16.13.</note> for Chriſt ſaith to his Diſciples, (who had the Scriptures, and alſo more' of his words, then was ſuppoſed could be written,) <hi>I have many things to ſay unto you, which you cannot bear yet; Howbeit when the Spirit of truth is come, it ſhall lead you into all truth;</hi> by
+<pb n="9" facs="tcp:172653:7" rendition="simple:additions"/>which it is manifeſt, that Chriſt prefers this his Spiritual Diſpenſation, above all outward Diſpenſations, and teachings whatſoever: to compleat, perfect, and furniſh them,
+<note place="margin">
+                  <hi>Joh.</hi> 14.26.</note> for ſaith he, it doth not only <hi>lead into all Truth,</hi> but <hi>it ſhall bring all things to your remembrance:</hi> &amp;c. And not only ſo, but fully to compleat them which are guided by it, <hi>(Obſ:) He ſhall not ſpeak of himſelfe: but what he heareth, that ſhall he ſpeak, he ſhall take of mine, and ſhew it unto you;</hi> &amp;c.
+<note place="margin">
+                  <hi>Joh.</hi> 14.17.</note> The Spirit was to be looked for in them, for ſaith he, <hi>he that dwel<g ref="char:EOLhyphen"/>leth with you ſhal be in you,</hi> much might be added more, upon this Subject, but this is ſufficient to thoſe who have an Ear to hear what the Spirit ſaith. But, Leaſt any ſhould think, thoſe things only related to the Apoſtles (mind) Chriſt ſaid, <hi>I pray not for theſe alone, but for them alſo,
+<note place="margin">
+                     <hi>Joh.</hi> 17.20-24.</note> which ſhall believe in me, through their word, that they may be one, as thou Father art in me, and I in thee: that they alſo may be one in us; that the World may believe, that thou haſt ſent me;</hi> Thus <hi>R.A.s</hi> Aſſer<g ref="char:EOLhyphen"/>tion is denyed, and the Spirit of Truth, Aſſerted and prov<g ref="char:EOLhyphen"/>ed to be, the only guide into all truth.</p>
+            <p>Suppoſe his Argument was granted; ſee then what would be the conſequence; for it was ſaid to thoſe that had Scrip<g ref="char:EOLhyphen"/>ture, notwithſtanding they had Scripture, for lack of <hi>viſion the People periſh;</hi> Secondly <hi>for lack of Knowledg, my People Pe<g ref="char:EOLhyphen"/>riſh,</hi> and knowledge or underſtanding,
+<note place="margin">
+                  <hi>Pro.</hi> 29.18. <hi>Hoſ:</hi> 4.6. <hi>Joh.</hi> 32.8 <hi>Luk.</hi> 10.22. 2 <hi>Theſi</hi> 1.</note> comes by the Inſpira<g ref="char:EOLhyphen"/>tion of the Almighty. Thirdly, none <hi>knows the Father, but the Son, and he to whom the Son reveals him.</hi> Laſtly, it is writ<g ref="char:EOLhyphen"/>ten <hi>God will render vengeance, upon them that know him not,</hi> &amp;c. By theſe things it is manifeſt, there is a neceſſity, to know ſomthing above and beyond the the Scriptures, namely that Spi<g ref="char:EOLhyphen"/>whence they came; for they cannot give the knowledge of God: becauſe they are not Chriſt. <hi>&amp;c.</hi>
+            </p>
+            <p>Again, he ſayes there's enough in the Scriptures, God doth not uſe to bring his people, any thing that is uſeleſs: by which I conclude, he ſees not the true uſe of the Scrip<g ref="char:EOLhyphen"/>tures: that can find no proportion between two extreams: what either all or nothing thats his ignorance?</p>
+            <pb n="10" facs="tcp:172653:8"/>
+            <p>Secondly, he ſaith there is no ſuch Spirit, to be expected, nor no ſuch way to be looked, beyond and above the Scrip<g ref="char:EOLhyphen"/>ture,
+<note place="margin">
+                  <hi>Io.</hi> 8.9.</note> 
+               <hi>&amp;c.</hi> From this I conclude he belongs not to Chriſt, becauſe he denyes his Spirit, for if he had his Spirit, for if he had his Spirit, he could not but conclude it a more perfect guide then the Scriptures; I muſt from hence alſo conclude he is no Miniſter of Chriſt,
+<note place="margin">2 <hi>Cor.</hi> 3.6</note> for the true Miniſters of the New Teſtament, which is written in the heart, are Miniſters of the Spirit, but he of the letter, and ſo by all his Preaching, cannot bring one to God, for he concludes the Scriptures is the way, and no way above it.</p>
+            <p>But the Scriptures,
+<note place="margin">
+                  <hi>h.</hi> 14.6</note> declare againſt him; ſaying, <hi>Chriſt is the way, unto the Father, and none can come to the Father, but by him,</hi> So it's full time, for all to turn from him, who turns all that comes to him, out of the way, His Argument prove that there is nothing to be looked for; above or beyond the Scriptures, is from the 2 <hi>Pet.</hi> 1.19. <hi>The Scriptures are a more ſure word of Prophecie;</hi> by which he concludes them ſurer then a voice from Heaven, <hi>(Obſ:)</hi> Scriptures at utmoſt are but a declaration of thoſe voices, which came from Heaven, So cannot be ſurer then a voice from Heaven; no whut to abate his confidence I ſhall prove a voice from Heaven, ſurer then the Scriptures, from this very place where he repoſeth his chiefeſt ſtrength, (Mark) this voice was certain <hi>This is my Beloved Son hear him,</hi> Certainer (I am ſure) it was to them that heard it, then this very Scripture, can be unto <hi>R. A.</hi> becauſe ſome Tranſlations renders it, <hi>a more ſure word of the Prophets,</hi> as well as others <hi>a more ſure word of Propheſie.</hi> This difference is very great, and by the Scriptures he cannot de<g ref="char:EOLhyphen"/>termine it. He looks for nothing further, ſo I am ſure he cannot be certain, but for brevity ſake and further ſatisfacti<g ref="char:EOLhyphen"/>on in this particular, peruſe a Book of <hi>William Pen</hi>'s called <hi>Quakeriſme,</hi> a new Nick-name, for old Chriſtianity, from <hi>page</hi> d82 to 191. being an anſwer to his Brother <hi>John Faldow.</hi>
+               <pb n="11" facs="tcp:172653:8" rendition="simple:additions"/>There is much builded more, upon this foundation, but it being removed the reſt muſt come to nothing.</p>
+            <p>Thirdly, He ſaith there is no ſuch thing as an Extraordi<g ref="char:EOLhyphen"/>nary Inſpiration to be looked for above the Scriptures, <hi>(Obſ:)</hi> his notable reaſon for it, and that ſayes he is) becauſe it muſt neceſſarily be revealed to us by the Scriptures.</p>
+            <p>
+               <hi>Anſ:</hi> Grant the Scriptures be the things of God: with reſpect to what they declare of, and at utmoſt they can be no more: then it followes, that they are ſo farre from re<g ref="char:EOLhyphen"/>vealing things which is above them: That they cannot open the Miſtery declared of in them, to thoſe that have them; Becauſe the things of God knoweth no man but the Spirit of God, his Ignorance and want of Gods Spirit,
+<note place="margin">1 <hi>Cor.</hi> 2.11.</note> is further mani<g ref="char:EOLhyphen"/>feſt by his ſetting up the Scriptures, in ſtead of the Spirit of God, ſaying it muſt be revealed to us by the Scriptures; his Aſſertion is alſo, in contradiction to the Scripture, which he ſayes is his guide, by which it appears he is in the dark, and ſo knows not whither he goes, for it is written, &amp;c. <hi>That which eye hath not ſeen, nor ear heard, neither came it into mans heart,</hi> &amp;c. So that is beyond the Scripture,
+<note place="margin">1 <hi>Cor.</hi> 2.9</note> neither is nor can be revealed by them, becauſe God reveals them by his Spirit, <hi>for the Spirit ſearcheth all things,
+<note place="margin">1 <hi>Cor.</hi> 2.9— <hi>Jere.</hi> 31.33, 34.</note> even the deep things of God;</hi> Again it is the promiſe that God would write his Law in the heart, this is that inſpiration, which is to be looked for, above and beyond the Scriptures, and that becauſe it gives the knowledge of God. So as that they need not to be taught, or ſaid unto <hi>know the Lord,</hi> which the Scripture cannot do; At utmoſt but pointing to it. <hi>(Obſ:)</hi> God doth not there ſay he will write his Law in the Scriptures, but in the heart; therefore all that looks not for it in the heart, looks for it where it is not to be found, ſo muſt needs miſs.</p>
+            <p>Thus take it home, profeſs what you will, if you do not thus witneſs it, you are not yet in the new Covenant, So with<g ref="char:EOLhyphen"/>out God in the World, <hi>&amp;c.</hi>
+            </p>
+            <p>He further ſaith, no Promiſe of a diſpenſation Superiour to the Scriptures, <hi>&amp;c.</hi>
+            </p>
+            <pb n="12" facs="tcp:172653:9"/>
+            <p>Thus his Ignorance is made manyfeſt both of that Diſpen<g ref="char:EOLhyphen"/>ſation and alſo of the Scriptures,
+<note place="margin">
+                  <hi>Iſai:</hi> 54.13. <hi>Jere.</hi> 31.33, 34-</note> for the Scriptures declare, that all ſhall be taught of God, is not this greater then to be taught of man or of the Scripture.</p>
+            <p>Secondly, God ſaid he would Write his Law it the heart, and they ſhould all know him from the leaſt to the greateſt,</p>
+            <p>Laſtly,
+<note place="margin">
+                  <hi>Joel</hi> 2.28 29.</note> The Prophet <hi>Joel</hi> ſaid, the Lord would pour forth of his Spirit upon all fleſh, Sons, Daughters, and Hand<g ref="char:EOLhyphen"/>maids, <hi>&amp;c.</hi> Where this is truly known, there's nothing to do where ſuch an Ignorant Teacher as he is; whoſe words render him ignorant of the Scripture, and of the Spirit that gave them forth.</p>
+            <p>He further ſaith,<note place="margin">
+                  <hi>Iſa:</hi> 8.20.</note> 
+               <hi>To the Law, and to the Teſtimony, if they ſpeak not according to this Word, it's becauſe there is no light in them,</hi>
+            </p>
+            <p>
+               <hi>(Obſ:)</hi> By this his concluſion he hath no light in him, or rather no morning to him, for he hath often in this diſcourſe, ſpoken contrary to the Scriptures, And as for the Law and Teſtimony, ſeeing he pleads for none but that which is out<g ref="char:EOLhyphen"/>ward; It's thereby evident, he is Ignorant of the New Co<g ref="char:EOLhyphen"/>venant, and knows nothing of <hi>the Law of the Spirit of life in Chriſt Jeſus,</hi>
+               <note place="margin">
+                  <hi>Ro.</hi> 8.2.</note> &amp;c. And ſo at utmoſt declares but of that which <hi>makes not the comers thereunto perfect,</hi> So no marvail if perfecti<g ref="char:EOLhyphen"/>on be denyed, <hi>&amp;c.</hi>
+            </p>
+            <p>Again, he ſpeaks by way of reflection upon us, as though we preached another Goſpel, but its more like that he and ſuch who preach the Letter to be the Higheſt diſpenſation, and tell the People the Letter is the Goſpel, as the Writings of <hi>Mathew, Mark, Luke, John,</hi> when as the Goſpel is the Power of God, (and ſo no outward thing.) And was preach<g ref="char:EOLhyphen"/>ed to <hi>Adam,</hi>
+               <note place="margin">
+                  <hi>Ro.</hi> 1.16. <hi>Heb.</hi> 4.2. <hi>Gal:</hi> 3.8.</note> to <hi>Abraham</hi> and the Iſraelites in the wilderneſs, ſo before the Writings of <hi>Mathew, Mark, Luke &amp; John.</hi>
+            </p>
+            <p>Fourthly, He ſayes, if there be any ſuch diſpenſation, to be looked for, then there muſt of neceſſity be ſomething to try it by, to diſtinguiſh it from falſe Appearances.</p>
+            <pb n="13" facs="tcp:172653:9" rendition="simple:additions"/>
+            <p>
+               <hi>(Obſ:)</hi> If he intend further, then the Scripture declares of, I anſwer, none further, for the Scriptures ſpeaks of a People: <hi>that was come to City of the Living God, New Jeruſalem, to an Innumerable company of Angels, and to God the Judge of all:</hi>
+               <note place="margin">
+                  <hi>Heb:</hi> 12.</note> this under the New Covenant. But that he is Ignorant of this, he has ſufficiently ſhewed, and knows nothing <hi>of him that ſpeaks from Heaven,</hi> Heb. 12.25.</p>
+            <p>But (ſayes he) there muſt of neceſſity be ſomething to try it by, <hi>&amp;c. (Anſ:)</hi> So there is,
+<note place="margin">
+                  <hi>Job.</hi> 28.7</note> but it lyes hid from every Vultures eye, for the day is come that the <hi>Cananite</hi> can be no more in the Houſe of the Lord,
+<note place="margin">
+                  <hi>Zach:</hi> 14 21.</note> nor can Iſraels Corn be any more meat for his Enemies, a Stranger cannot intermeddle with his Joy, for the teſtimony is bound up,
+<note place="margin">
+                  <hi>Iſa:</hi> 8, 16</note> and the Law ſealed among his Diſciples. The Natural man cannot judge of thoſe things, they are fooliſhneſs unto him, It's the Spiri<g ref="char:EOLhyphen"/>tual man which judgeth all things, that is led by the Spirit of God, which is a more abſolute guide then the Scriptures, for they that are led by it, It <hi>bears Witneſs with their Spirits,
+<note place="margin">
+                     <hi>Rom.</hi> 8.16. <hi>Joh.</hi> 5.10.</note> that they are the Sons of God,</hi> which the Scriptures cannot doe particularly, But ſaith the Scripture, <hi>every one that believeth hath the witneſs in hi
+mſelfe,</hi> but to ſpeak a little plainer for their ſakes that can receive it; if any would be made able to Judge of ſuch diſpenſation they muſt wait to know a meaſure given them, for they may read before <hi>John</hi> did meaſure the Temple and them that worſhipped therein, he had a meaſure given, but the outward Court he was not to mett <hi>&amp;c.</hi>
+               <note place="margin">
+                  <hi>Re.</hi> 11.1.</note> And are not all here who are ſetting up ſo high outward things. When the New Covenant is inward and the Law inward,
+<note place="margin">
+                  <hi>Joh.</hi> 4.24. 2 <hi>Cor.</hi> 4.18. <hi>Joh.</hi> 12.36. <hi>Ephe.</hi> 5.13.</note> and Gods worſhip in the Spirit and in the Truth, which are all inward, in reſpect of things that are outward, what is ſeen is temporal, but that which is not ſeen is Eternal, but no man can underſtand thoſe things, except he come to believe in the Light, for it is Light that makes all things manyfeſt, there is but light and darkneſs, and they are contrary one to
+<pb n="14" facs="tcp:172653:10"/>another,
+<note place="margin">
+                  <hi>Joh.</hi> 12.35. 2 <hi>Cor.</hi> 44. <hi>Eph</hi> 2.2. 1 <hi>Joh.</hi> 1.7 <hi>Joh.</hi> 1.5.</note> 
+               <hi>he that walks in darkneſs knows not whither he goes, be<g ref="char:EOLhyphen"/>cauſe the darkneſs hath blinded his Eye</hi> And that eye is inward which is blinded by the God of this world, that ruleth in the children of diſobedience, but he that comes to the light and walks in the light as God is in the Light knows whither he goes, this <hi>light ſhines in darkneſs but the darkneſs comprehends it not.</hi>
+               <note place="margin">2 <hi>Cor.</hi> 4.6, 7.</note> And this light is to be looked for in the heart, <hi>for God that commanded light to ſhine out of darkneſſe hath ſhined in our hearts,</hi> none can deny but the Law of God, by which man comes to know God muſt be written in the heart,
+<note place="margin">
+                  <hi>Heb.</hi> 8.10.11.</note> except they will deny the New Covenant. Thus what I have ſaid is not contrary to the Scriptures, but hath Teſtimo<g ref="char:EOLhyphen"/>ny of the Law, Prophets and Apoſtles, we do not make void the Scriptures but eſtabliſh them, ſaying the Law is for the Lawleſs, and that the Scriptures are profitable for correcti<g ref="char:EOLhyphen"/>on and Inſtruction, <hi>&amp;c.</hi> So he may correct me by them if there be occaſion, <hi>&amp;c.</hi>
+            </p>
+            <p>But again, to paſs by much of his diſcourſe which is moſtly impertinent to our purpoſe, and well nigh as frivilous, I ſhall obſerve his 4 directions. Which he ſays, he gives (leaſt he ſhould leave his Auditors in the Dark) to diſcover thoſe overcome with a Spirit of deluſion. Firſt ſayes he there is no manner of proportion betwixt their pretence and the reali<g ref="char:EOLhyphen"/>ty which is in them, <hi>&amp;c. (Obſ:)</hi> In his laſt direction I find that he means ſuch are deceived themſelves, for (ſaith he) they are deceived as well as deciving. So from his own word as moſt likely to perſwade him that his Aſertion is falſe, I infer if deceived and thereby deceiving others, there is Abſo<g ref="char:EOLhyphen"/>lute proportion betwixt their end, and the pretence they make, for ſuch perſwades not to what they know is falſe, but to what they think is true, (Sayes he) they come with <hi>Eſaus</hi> hand and <hi>Jacobs</hi> voice, <hi>Jacob</hi> was not deceived for he knew what he did, therefore this is a plain contradion to his own words in his laſt direction, who ſaid they was deceived as well as deceiving, thus his firſt direction his diſcovered his own delu<g ref="char:EOLhyphen"/>ſion.</p>
+            <pb n="15" facs="tcp:172653:10" rendition="simple:additions"/>
+            <p>His ſecond direction reflecting upon us <hi>&amp;c.</hi> They (ſayes he) pretend extraordinary calls for ordinary work as in this Example, whoſe work but ordinary. That, that we might have told him, as well as he us, <hi>(Obſ:)</hi> If you might have done it as well as he, Then truth I conclude, So no ſign of deluſion, And then why received he not from you ſuch as you would have had done to you therefore your extraordi<g ref="char:EOLhyphen"/>nary words and Actions, demonſtrate your Spirits, A Child he ſayes might have told them as much, If a Child had learnt it ſo he might. <hi>(Obſ:)</hi> Is this ſaying ſo ordinary when true which <hi>Daniel Smith</hi> told you. As he was naked ſo were you, not being covered with the Spirit of the Lord, and that this ſaying was true is granted by his own confeſſion, ſaying he told us nothing but what we might have told him; this his ſecond direction ſhews his own confuſion. <hi>&amp;c.</hi>
+            </p>
+            <p>His third direction ſtated, Its a ſign of a Spirit of deluſion (ſayes he when there is a Special Impropriation of Chriſt and all good things to themſelves, with judging and condem<g ref="char:EOLhyphen"/>ning others, &amp;c.</p>
+            <p>
+               <hi>(Obſ:)</hi> Thus to reflect upon us is manifeſt Injury. And the effect of a Lying Spirit as ſhall be proved.
+<note place="margin">
+                  <hi>Ro.</hi> 1.19. <hi>Tit.</hi> 2.11</note> For <hi>Daniel Smith</hi> told you that what was to be known of God was manifeſt in you, directing you to the grace of God in you, and alſo that Gods love was towards you. And that he would not have any one of you to periſh, with many more Good words to this purpoſe. Now if you ſhould think that thoſe was not good things, yet it is manifeſt that, <hi>Daniel Smith,</hi> and we alſo, are clear of this charge. By Preaching Gods free grace un<g ref="char:EOLhyphen"/>to all. <hi>(Obſ:)</hi> Muſt not every tongue confeſs truth unto God, if ſo,
+<note place="margin">
+                  <hi>Col.</hi> 1.27 2 <hi>Cor.</hi> 13.5.</note> why doth it offend you that we know Chriſt in us the hope of glory, ſeeing if he be not in you, You are Repro<g ref="char:EOLhyphen"/>bates, Can the Scripture confeſs you to the Father, if Chriſt know you not, and if he be not in you is he not worthy to be eſteemed a better Leader then the Scriptures, which doth at
+<pb n="16" facs="tcp:172653:11"/>utmoſt but declare of him,
+<note place="margin">
+                  <hi>Joh.</hi> 5.39</note> and point to him that all ſhould come to him that would have life, Was not this the promiſe of the Father to give him for a Leader:
+<note place="margin">
+                  <hi>Acts.</hi> 1.4, 5, 6, 7, 8.</note> And are not all his Diſciples and followers to wait for the ſame?</p>
+            <p>Again, he ſayes indeed its ordinary ſometimes to ſay that they are Chriſt. &amp;c. <hi>(Obſ:)</hi> If he intend it is ordinary for us to ſay that we are Chriſt, let him ſhew us who he hath known ſay ſo, for indeed his words import certainty on his part, But if he means it's ordinary for ſuch Logicians as him<g ref="char:EOLhyphen"/>ſelfe, who by the Art of reaſoning would make things appear to be that which in truth they are not, then let him know ſuch Reaſoning is Earthly ſenſual Deviliſh, And we paſs not for it, yet we can truly ſee thereby that ſuch are Natural not<g ref="char:EOLhyphen"/>withſtanding their pretences, ſo cannot underſtand the things of God,
+<note place="margin">1 <hi>Cor.</hi> 2.14. 1 <hi>Joh.</hi> 2.20-27. 1 <hi>Joh.</hi> 4.4</note> 
+               <hi>&amp;c. (Obſ:)</hi> Becauſe Chriſt ſignifies anointed, can none have the Annointing but they muſt be counted Chriſt? did not the Primitive Chriſtians acknowledge Chriſt in them, and the Anointing in them, and that he that was in them was greater then he that was in the world, So this his third direction is a true diſcovery of his own condition.</p>
+            <p>Fourthly, His laſt direction obſerved, He ſaith that a Spirit of deluſion is known by growing worſe and worſe, &amp;c.</p>
+            <p>
+               <hi>(Obſ:)</hi> Wee are willing to leave the Iſſue hereof to the Tryal, Being ſatisfied if he be not yet made Manifeſt accord<g ref="char:EOLhyphen"/>ing to his own Rule, He ſhall be if he repent not.</p>
+            <p>Again he ſaith. We have a more ſure word of Pomiſe (as though none had the Scriptures but they) Here (ſaith he) we have our call, and ſomething to try it by, <hi>(Obſ:)</hi> His ignorance of him that ſearcheth the Heart and tryeth the Reins and declareth to man his thoughts, is plainly ſeen, by his ſet<g ref="char:EOLhyphen"/>ing up the Scripture,
+<note place="margin">
+                  <hi>Amo.</hi> 4.13.</note> as being ſurer then the Spirit of God, By which <hi>(Obſ:)</hi> he ſhews vs evidently that his call is not of God, So neither doth nor can Miniſter from the Abillity of the grace of God, nor ſpeak as the Oracle of God, (which is
+<pb n="17" facs="tcp:172653:11" rendition="simple:additions"/>certain) which all true Miniſters are to doe, 1 <hi>Pet.</hi> 4.10. <hi>That God in all things may be glorified.</hi>
+            </p>
+            <p>But I infer, if the Scripture be the Rule, then all that have the Scriptures hath the Rule as well as you; then I querie how comes it to paſs there is ſo many different perſwaſions, when you have all but one Rule, Can the Scriptures have any more true meanings but one? is Chriſt divided, or is there any varyableneſſe with God? But if you cannot own that every one that hath the Scriptures is in the Right, but only ſuch as practiſe as you are perſwaded. Then I query, How come you to be ſurer then others, ſeeing they plead Scriptures to Iuſtifie them, as well as you: Therefore it fol<g ref="char:EOLhyphen"/>lows, if you think your ſelves ſurer then others, Knowing no further then the Scriptures, (as <hi>R. A.</hi> affirmeth) it is a ſet<g ref="char:EOLunhyphen"/>ing up your ſelves above others, So at beſt can be but an Ima<g ref="char:EOLhyphen"/>gination &amp;c. (Thus by way of concluſion) I need not In<g ref="char:EOLhyphen"/>large as to ſhew any thing further for the Juſtification of <hi>Da<g ref="char:EOLhyphen"/>niel Smith</hi> in his naked carryage, then the Subſtance of that Aſſertion ſtated by <hi>R A.</hi> as ours in his third Immagination, ſeth, when he pleaſeth, may by his Spirit, Lead whom he plea<g ref="char:EOLhyphen"/>That is, that the Lord And into what he pleaſeth, now as well as he did the Prophets of Old, For with him is no variableneſs nor ſhadow of turning, and that becauſe I have conſidered his ſtrong Reaſons, Aſſertions and Arguments, brought by him to Abrogate or Invalidate the former Aſſertion. And they are found (Inſtead of ours) to fall to the ground, And therefore is abſolutely too ſhort, and too Narrow to An<g ref="char:EOLhyphen"/>ſwer his End or to be as a cover. So <hi>Daniel Smith</hi> Teſtimo<g ref="char:EOLhyphen"/>ny remains firm, And conſequently in meaſure fulfilled by the Appearing of this diſcourſe, wherein Lyes is ſeen to be <hi>R. A's.</hi> Refuge, So not covered by the Spirit of the Lord nor did he take council of him: Therefore let him and all that takes part with him in this Antichriſtian work, take heed, Such as they Sow, ſuch muſt they Reap, if to the fleſh then
+<pb n="18" facs="tcp:172653:12"/>corruption,
+<note place="margin">
+                  <hi>Gal:</hi> 6.7, 8. <hi>Joh.</hi> 16.13. <hi>Joh.</hi> 15.5. <hi>Ro.</hi> 8.9.</note> but if to the Spirit life Everlaſting, thus I con<g ref="char:EOLhyphen"/>clude againſt his and all oppoſers utmoſt Force. That their is no guide into all Truth, but the Spirit of Truth, And that without this Spirit nothing can be done acceptable to the Father, and that he that hath it not is none of his.</p>
+            <p>This for detecting of Error, that the truth may be made manifeſt, and the honeſt hearted Informed, who are or may be ſubject to be deceived by the working of the Immaginarie Spirit. By a lover of the Truth and ſouls of all men, whoſe eye God hath opened to ſee the deceit, and thus far ina<g ref="char:EOLhyphen"/>bled to make it manifeſt,
+<note place="margin">1 <hi>Cor.</hi> 27.28, 29.</note> let him therefore have the glory who chuſeth the fooliſh things to confound the Wiſe, ſaith <hi>John Hogg.</hi>
+            </p>
+            <p>THis diſcourſe occaſioned by a Scandalous paper ſpread abroad under the name of Mr. <hi>Aſtley</hi> Sermon: and be<g ref="char:EOLhyphen"/>ing deſirous to know the truth thereof, it was convey<g ref="char:EOLhyphen"/>ed unto him, according as in this letter inſerted. But he refuſing to Anſwer our juſt deſire, therein expreſſed, We could do no leſſe for the truth ſake then publiſh it, <hi>&amp;c.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>The 19. of the 9. Month. 1673.</date>
+                     </dateline> 
+                     <salute>Richard Aſtley</salute>
+                  </opener>
+                  <p>
+                     <hi>WHereas this Paper or Sermon, which we preſent to thy view, by thy Friend,</hi> R. N. <hi>was publickly declared to be thine, Before a Prieſt, and divers People, By one glorying and boaſting in it, over our Friends (whom the Scorners call</hi> Quakers) <hi>one of them being preſent, heard him confidently affirm, thou would own it; Therefore we expect, (as juſt and equal) that thou ſhould give us it under thy hand, as
+<pb n="19" facs="tcp:172653:12" rendition="simple:additions"/>thine, Or not thine, if but part thine, then plainly ſhew us what thou owns, Or what thou diſownes, that the truth (which is but one) may be made manifeſt, which hurts none but its Ene<g ref="char:EOLhyphen"/>mies, this Ingeniouſly performed by thee, will at preſent ſatisfie.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Thy Friends</hi> 
+                        <list>
+                           <item>John Lyth.</item>
+                           <item>John Hogg.</item>
+                           <item>Anth: Wells.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Richard Aſtleys</hi> Anſwer to the foregoing letter concerning his Sermon was that it was generally his own, except ſome words that was not ſence which we ſuppoſe came by the Scribe and no advantage taken of here; now having long expected a more plain and full anſwer according to their Promiſe, which not finding in this great length of time, we con<g ref="char:EOLhyphen"/>clude they do not intend to make it publick, and therefore this is thought convenient to be publiſhed.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
